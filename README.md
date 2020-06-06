@@ -1,2 +1,2 @@
-# LowerLevelProgramming-C-C-
+# LowerLevelProgramming
 UW CSE 374 
